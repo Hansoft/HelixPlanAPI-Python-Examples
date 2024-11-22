@@ -11,7 +11,7 @@ CONNECTION = {
         'PASSWORD': '',
     },
     'dev': {
-        # Add the URL to the API like https://helixplan.example.com/api/graphql
+        # Add the URL to the API like http://localhost:${port}/graphql or other domain you have set the API on
         'URL': '',
         # The regular Helix Plan username and password to run the script as.
         'USER': '',
